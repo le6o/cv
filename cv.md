@@ -3,6 +3,24 @@ Martin Ledgard
 
 PHP application developer located in [Birmingham UK][], date.timezone = [Europe/London][]
 
+## Experience
+
+Wider Plan Limited, August 2010 - Present
+: **Senior Software Developer**
+: PHP, Kohana, Symfony, PHPUnit
+
+Entanet International, October 2009 - August 2010
+: **Programmer**
+: PHP, PHPUnit, Doctrine
+
+Clickingmad Limited, April 2006 - October 2009
+: **PHP Developer**
+: PHP, Joomla, e-commerce
+
+Microkode Software Limited, July 2005 - February 2006
+: **Company Director**
+: PHP, CakePHP, e-commerce
+
 ## Education
 
 The University of Warwick, October 2002 – July 2005
