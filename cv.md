@@ -3,6 +3,14 @@ Martin Ledgard
 
 PHP application developer located in [Birmingham UK][], date.timezone = [Europe/London][]
 
+## Education
+
+The University of Warwick, October 2002 – July 2005
+: **Bachelor of Science with Honours in Computer Science**
+
+New College Pontefract, September 2000 – July 2002
+: Three A-levels — **Computing (A), Mathematics (A), Further Mathematics (C)**
+
 ## Links
 
 * Github:   [@le6o](http://github.com/le6o)
