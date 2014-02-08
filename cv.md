@@ -29,6 +29,11 @@ PHP application developer located in [Birmingham UK][], date.timezone = [Europe/
 #### New College Pontefract, September 2000 – July 2002
 * Three A-levels — **Computing (A), Mathematics (A), Further Mathematics (C)**
 
+## Interests and hobbies
+
+Genealogy, HIIT, Hiking, Mountain Biking, [Movies][], [Music][], [ParkRun][],
+Poker, Pool, [Reading][], Snowboarding, Sports fan, Technology
+
 ## Links
 
 * Github:   [@le6o](http://github.com/le6o)
@@ -37,3 +42,8 @@ PHP application developer located in [Birmingham UK][], date.timezone = [Europe/
 
 [Birmingham UK]: https://www.google.co.uk/maps/preview/@52.4774376,-1.8636315,11z
 [Europe/London]: http://www.timeanddate.com/worldclock/city.html?n=136
+
+[Movies]: http://imdb.com/user/ur3229776
+[Music]: http://last.fm/user/le6o
+[Parkrun]: http://www.parkrun.org.uk/results/athleteresultshistory/?athleteNumber=147723
+[Reading]: https://www.goodreads.com/le6o
