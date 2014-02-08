@@ -5,29 +5,29 @@ PHP application developer located in [Birmingham UK][], date.timezone = [Europe/
 
 ## Experience
 
-Wider Plan Limited, August 2010 - Present
-: **Senior Software Developer**
-: PHP, Kohana, Symfony, PHPUnit
+### Wider Plan Limited, August 2010 - Present
+* **Senior Software Developer**
+* PHP, Kohana, Symfony, PHPUnit
 
-Entanet International, October 2009 - August 2010
-: **Programmer**
-: PHP, PHPUnit, Doctrine
+#### Entanet International, October 2009 - August 2010
+* **Programmer**
+* PHP, PHPUnit, Doctrine
 
-Clickingmad Limited, April 2006 - October 2009
-: **PHP Developer**
-: PHP, Joomla, e-commerce
+##### Clickingmad Limited, April 2006 - October 2009
+* **PHP Developer**
+* PHP, Joomla, e-commerce
 
-Microkode Software Limited, July 2005 - February 2006
-: **Company Director**
-: PHP, CakePHP, e-commerce
+##### Microkode Software Limited, July 2005 - February 2006
+* **Company Director**
+* PHP, CakePHP, e-commerce
 
 ## Education
 
-The University of Warwick, October 2002 – July 2005
-: **Bachelor of Science with Honours in Computer Science**
+### The University of Warwick, October 2002 – July 2005
+* **Bachelor of Science with Honours in Computer Science**
 
-New College Pontefract, September 2000 – July 2002
-: Three A-levels — **Computing (A), Mathematics (A), Further Mathematics (C)**
+#### New College Pontefract, September 2000 – July 2002
+* Three A-levels — **Computing (A), Mathematics (A), Further Mathematics (C)**
 
 ## Links
 
