@@ -29,6 +29,14 @@ PHP application developer located in [Birmingham UK][], date.timezone = [Europe/
 #### New College Pontefract, September 2000 – July 2002
 * Three A-levels — **Computing (A), Mathematics (A), Further Mathematics (C)**
 
+## Awards and achievements
+
+* 2013-14 - Code School enrolment and [course participation][code-school].
+* 2008 - Level 5 certificate in management from the Institute of Leadership and Management
+* 2005 - The University of Warwick Sports Federation Club Colours award winner.
+* 2004 - IBM Student Recognition Scheme award winner.
+* 2000 - John Kearsley Award for Mathematics.
+
 ## Interests and hobbies
 
 Genealogy, HIIT, Hiking, Mountain Biking, [Movies][], [Music][], [ParkRun][],
@@ -36,13 +44,15 @@ Poker, Pool, [Reading][], Snowboarding, Sports fan, Technology
 
 ## Links
 
-* Code School: [le6o](https://www.codeschool.com/users/le6o)
+* Code School: [le6o][code-school]
 * Github:      [@le6o](http://github.com/le6o)
 * Twitter:     [@le6o](http://twitter.com/le6o)
 * LinkedIn:    [Martin Ledgard](http://uk.linkedin.com/in/ledgard)
 
 [Birmingham UK]: https://www.google.co.uk/maps/preview/@52.4774376,-1.8636315,11z
 [Europe/London]: http://www.timeanddate.com/worldclock/city.html?n=136
+
+[code-school]: https://www.codeschool.com/users/le6o
 
 [Movies]: http://imdb.com/user/ur3229776
 [Music]: http://last.fm/user/le6o
