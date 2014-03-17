@@ -8,18 +8,22 @@ PHP application developer located in [Birmingham UK][], date.timezone = [Europe/
 ### Wider Plan Limited, August 2010 - Present
 * **Senior Software Developer**
 * PHP, Kohana, Symfony, PHPUnit
+* HTML5
 
 #### Entanet International, October 2009 - August 2010
 * **Programmer**
 * PHP, PHPUnit, Doctrine
+* HTML, CSS, jQuery
 
 ##### Clickingmad Limited, April 2006 - October 2009
 * **PHP Developer**
 * PHP, Joomla, e-commerce
+* HTML, CSS, Javascript
 
 ##### Microkode Software Limited, July 2005 - February 2006
 * **Company Director**
 * PHP, CakePHP, e-commerce
+* HTML, XSLT, CSS
 
 ## Education
 
