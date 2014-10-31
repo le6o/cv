@@ -8,22 +8,22 @@ PHP application developer located in [Birmingham UK][].
 ### Unique IQ Limited, June 2014 - Present
 * **Senior Software Developer**
 * PHP, Silex, AngularJS, HTML, CSS
-* Capistrano, Composer, Bower, Git
+* MySQL, Capistrano, Composer, Bower, Git
 
 #### Wider Plan Limited, August 2010 - May 2014
 * **Senior Software Developer and Team Leader**
 * PHP, Kohana, Symfony, HTML, CSS, Less
-* Composer, PHPUnit, Jenkins, Git
+* MySQL, Composer, PHPUnit, Jenkins, Git
 
 #### Entanet International, October 2009 - August 2010
 * **Programmer**
 * PHP, Doctrine, HTML, CSS, jQuery
-* PHPUnit, Subversion
+* MySQL, PHPUnit, Subversion
 
 ##### Clickingmad Limited, April 2006 - October 2009
 * **PHP Developer and Team Leader**
 * PHP, HTML, CSS, Javascript
-* Joomla, e-commerce
+* MySQL, Joomla, e-commerce
 
 ##### Microkode Software Limited, July 2005 - February 2006
 * **Company Director**
