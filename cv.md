@@ -1,7 +1,7 @@
 Martin Ledgard
 ==============
 
-PHP application developer located in [Birmingham UK][], date.timezone = [Europe/London][]
+PHP application developer located in [Birmingham UK][].
 
 ## Experience
 
@@ -59,7 +59,6 @@ Poker, Pool, [Reading][], Snowboarding, Sports fan, Technology
 * LinkedIn:    [Martin Ledgard](http://uk.linkedin.com/in/ledgard)
 
 [Birmingham UK]: https://www.google.co.uk/maps/preview/@52.4774376,-1.8636315,11z
-[Europe/London]: http://www.timeanddate.com/worldclock/uk/london
 
 [code-school]: https://www.codeschool.com/users/le6o
 
