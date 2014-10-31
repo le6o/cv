@@ -48,7 +48,7 @@ PHP application developer located in [Birmingham UK][].
 
 ## Interests and hobbies
 
-Genealogy, HIIT, Hiking, Mountain Biking, [Movies][], [Music][], [ParkRun][],
+Genealogy, [Geocaching][] HIIT, Hiking, Mountain Biking, [Movies][], [Music][], [ParkRun][],
 Poker, Pool, [Reading][], Snowboarding, Sports fan, Technology
 
 ## Links
@@ -62,6 +62,7 @@ Poker, Pool, [Reading][], Snowboarding, Sports fan, Technology
 
 [code-school]: https://www.codeschool.com/users/le6o
 
+[Geocaching]: http://www.geocaching.com/profile/?guid=21ba46f1-442a-459a-9880-8580e1ff9927
 [Movies]: http://imdb.com/user/ur3229776
 [Music]: http://last.fm/user/le6o
 [Parkrun]: http://www.parkrun.org.uk/results/athleteresultshistory/?athleteNumber=147723
