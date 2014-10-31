@@ -5,7 +5,12 @@ PHP application developer located in [Birmingham UK][], date.timezone = [Europe/
 
 ## Experience
 
-### Wider Plan Limited, August 2010 - Present
+### Unique IQ Limited, June 2014 - Present
+* **Senior Software Developer**
+* PHP, Silex, AngularJS
+* HTML5
+
+#### Wider Plan Limited, August 2010 - May 2014
 * **Senior Software Developer**
 * PHP, Kohana, Symfony, PHPUnit
 * HTML5
