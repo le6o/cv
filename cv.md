@@ -11,7 +11,7 @@ PHP application developer located in [Birmingham UK][].
 * Capistrano, Composer, Bower
 
 #### Wider Plan Limited, August 2010 - May 2014
-* **Senior Software Developer**
+* **Senior Software Developer and Team Leader**
 * PHP, Kohana, Symfony, HTML, CSS, Less
 * Composer, PHPUnit, Jenkins
 
@@ -21,7 +21,7 @@ PHP application developer located in [Birmingham UK][].
 * PHPUnit
 
 ##### Clickingmad Limited, April 2006 - October 2009
-* **PHP Developer**
+* **PHP Developer and Team Leader**
 * PHP, HTML, CSS, Javascript
 * Joomla, e-commerce
 
