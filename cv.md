@@ -5,7 +5,7 @@ PHP application developer located in [Birmingham UK][].
 
 ## Experience
 
-### Unique IQ Limited, June 2014 - Present
+### Unique IQ Limited, June 2014 - December 2014
 * **Senior Software Developer**
 * PHP, Silex, AngularJS, HTML, CSS
 * MySQL, Capistrano, Composer, Bower, Git
