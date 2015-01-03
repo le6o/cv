@@ -25,11 +25,6 @@ PHP application developer located in [Birmingham UK][].
 * PHP, HTML, CSS, Javascript
 * MySQL, Joomla, e-commerce
 
-##### Microkode Software Limited, July 2005 - February 2006
-* **Company Director**
-* PHP, CakePHP, HTML, XSLT, CSS
-* e-commerce
-
 ## Education
 
 ### The University of Warwick, October 2002 – July 2005
