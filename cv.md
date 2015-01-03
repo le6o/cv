@@ -5,7 +5,10 @@ PHP application developer located in [Birmingham UK][].
 
 ## Experience
 
-### Unique IQ Limited, June 2014 - December 2014
+### Midlands News Association, December 2014 - Present
+* **Senior Web Developer**
+
+#### Unique IQ Limited, June 2014 - December 2014
 * **Senior Software Developer**
 * PHP, Silex, AngularJS, HTML, CSS
 * MySQL, Capistrano, Composer, Bower, Git
@@ -15,7 +18,7 @@ PHP application developer located in [Birmingham UK][].
 * PHP, Kohana, Symfony, HTML, CSS, Less
 * MySQL, Composer, PHPUnit, Jenkins, Git
 
-#### Entanet International, October 2009 - August 2010
+##### Entanet International, October 2009 - August 2010
 * **Programmer**
 * PHP, Doctrine, HTML, CSS, jQuery
 * MySQL, PHPUnit, Subversion
