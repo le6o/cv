@@ -57,7 +57,7 @@ PHP application developer located in [Birmingham UK][].
 
 ## Interests and hobbies
 
-Genealogy, [Geocaching][], HIIT, Hiking, Mountain Biking, [Movies][], [Music][], [ParkRun][],
+Crossfit, Genealogy, [Geocaching][], Hiking, Mountain Biking, [Movies][], [Music][], [ParkRun][],
 Podcasts, Poker, Pool, [Reading][], Snowboarding, Sports fan, Technology
 
 ## Links
