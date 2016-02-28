@@ -38,7 +38,7 @@ PHP application developer located in [Birmingham UK][].
 
 ## Awards and achievements
 
-* 2013-14 - Code School enrolment and [course participation][code-school].
+* 2013-14 - Code School [course participation][code-school].
 * 2008 - Level 5 certificate in management from the Institute of Leadership and Management
 * 2005 - The University of Warwick Sports Federation Club Colours award winner.
 * 2004 - IBM Student Recognition Scheme award winner.
@@ -51,7 +51,6 @@ Poker, Pool, [Reading][], Snowboarding, Sports fan, Technology
 
 ## Links
 
-* Code School: [le6o][code-school]
 * Github:      [@le6o](http://github.com/le6o)
 * Twitter:     [@le6o](http://twitter.com/le6o)
 * LinkedIn:    [Martin Ledgard](http://uk.linkedin.com/in/ledgard)
