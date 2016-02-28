@@ -31,6 +31,11 @@ PHP application developer located in [Birmingham UK][].
 * PHP, Joomla, MySQL
 * HTML, CSS, Javascript
 
+## Open source
+
+:guardsman: [guardsman/guardsman][]
+*Guard clause assertion library to enforce parameter preconditions in PHP*
+
 ## Education
 
 ### The University of Warwick, October 2002 – July 2005
@@ -59,9 +64,8 @@ Poker, Pool, [Reading][], Snowboarding, Sports fan, Technology
 * LinkedIn:    [Martin Ledgard](http://uk.linkedin.com/in/ledgard)
 
 [Birmingham UK]: https://www.google.co.uk/maps/preview/@52.4774376,-1.8636315,11z
-
+[guardsman/guardsman]: https://github.com/guardsman/guardsman
 [code-school]: https://www.codeschool.com/users/le6o
-
 [Geocaching]: http://www.geocaching.com/profile/?guid=21ba46f1-442a-459a-9880-8580e1ff9927
 [Movies]: http://imdb.com/user/ur3229776
 [Music]: http://last.fm/user/le6o
