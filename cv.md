@@ -7,7 +7,7 @@ PHP application developer located in [Birmingham UK][].
 
 ### Midlands News Association, December 2014 - Present
 * **Senior Web Developer**
-* PHP, Laravel, MongoDB, PHPUnit
+* PHP, Laravel, Beanstalkd, MongoDB, PHPUnit
 * React, HTML, CSS, SASS
 * Jenkins, Envoy, Composer, Gulp, Git
 
