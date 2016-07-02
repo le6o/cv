@@ -36,7 +36,7 @@ PHP application developer located in [Birmingham UK][].
 
 ## Open source
 
-:guardsman: [guardsman/guardsman][]
+:guardsman: [guardsman/guardsman][]  
 *Guard clause assertion library to enforce parameter preconditions in PHP*
 
 ## Education
