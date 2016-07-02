@@ -5,7 +5,7 @@ PHP application developer located in [Birmingham UK][].
 
 ## Experience
 
-### Midlands News Association, December 2014 - Present
+### Midlands News Association, December 2014 - July 2016
 * **Senior Web Developer**
 * PHP, Laravel, Beanstalkd, MongoDB, PHPUnit
 * React, HTML, CSS, SASS
