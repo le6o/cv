@@ -49,7 +49,7 @@ PHP application developer located in [Birmingham UK][].
 
 ## Awards and achievements
 
-* 2013-14 - Code School [course participation][code-school].
+* 2013-16 - Code School [course participation][code-school].
 * 2008 - Level 5 certificate in management from the Institute of Leadership and Management
 * 2005 - The University of Warwick Sports Federation Club Colours award winner.
 * 2004 - IBM Student Recognition Scheme award winner.
